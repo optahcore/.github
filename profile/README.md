@@ -1,9 +1,9 @@
-#Welcome to OPTAH 🌟
+# Welcome to OPTAH 🌟
 
 ## Hi there 👋
 
 ### About Us
-Welcome to OPTAH, your partner in creating customized technological solutions designed to empower small and medium-sized enterprises. We specialize in:
+Welcome to **OPTAH**, your partner in creating customized technological solutions designed to empower small and medium-sized enterprises. We specialize in:
 
 - **Strategic Consulting**: Tailoring digital strategies to meet the specific needs of each client.
 - **Custom Solution Development**: Building scalable and efficient software solutions.
